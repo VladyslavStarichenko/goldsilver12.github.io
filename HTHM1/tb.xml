@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="tb.xsl"?>
+
+<products>
+<choose>
+  <ch>
+    <Fruits>Apple</Fruits>
+    <Vegetables>Carrot</Vegetables>
+    <Nuts>Almond </Nuts>
+    <Carbohydrates>Rice</Carbohydrates>
+    <Proteins>Beef</Proteins>
+  </ch>
+   <ch>
+    <Fruits>Orange</Fruits>
+    <Vegetables>Cabbage</Vegetables>
+    <Nuts>Cashew </Nuts>
+    <Carbohydrates>Buckwheat</Carbohydrates>
+    <Proteins>Pork</Proteins>
+  </ch>
+   <ch>
+    <Fruits>Banana</Fruits>
+    <Vegetables>Pepper</Vegetables>
+    <Nuts> Hazelnut</Nuts>
+    <Carbohydrates>Grits</Carbohydrates>
+    <Proteins>Chicken</Proteins>
+  </ch>
+   <ch>
+    <Fruits>Avocado</Fruits>
+    <Vegetables>Lettuce</Vegetables>
+    <Nuts>Peanut </Nuts>
+    <Carbohydrates>Pearl-barley</Carbohydrates>
+    <Proteins>Rabbit</Proteins>
+  </ch>
+   <ch>
+    <Fruits>Kiwi</Fruits>
+    <Vegetables>Asparagus</Vegetables>
+    <Nuts>Macadamia </Nuts>
+    <Carbohydrates>Semolina</Carbohydrates>
+    <Proteins>Salmon</Proteins>
+  </ch>
+  <ch>
+    <Fruits>Mango</Fruits>
+    <Vegetables>Beets</Vegetables>
+    <Nuts>Barzil nut </Nuts>
+    <Carbohydrates>Millet</Carbohydrates>
+    <Proteins>Frigate mackerel</Proteins>
+  </ch>
+  <ch>
+    <Fruits>Grapes</Fruits>
+    <Vegetables>Cucumber</Vegetables>
+    <Nuts>Pistachio </Nuts>
+    <Carbohydrates>Pasta</Carbohydrates>
+    <Proteins>Cod</Proteins>
+  </ch>
+  <ch>
+    <Fruits>Date</Fruits>
+    <Vegetables>Tomato</Vegetables>
+    <Nuts>Walnut </Nuts>
+    <Carbohydrates>Potatoes</Carbohydrates>
+    <Proteins>Eggs</Proteins>
+  </ch>
+   
+ 
+</choose>
+</products>

@@ -1,0 +1,208 @@
+
+body{
+    background: black;
+    padding: 0;
+    margin: 0;
+    color: gold;
+}
+.button1{
+    background-color: gold;
+    
+    border-radius: 100px;
+    text-decoration: none;
+    padding: 10px 28px;
+    
+    
+   
+}
+
+.button{
+    background-color: gold;
+    border: 5px solid gray;
+    border-radius: 100px;
+    text-decoration: none;
+    padding: 10px 28px;
+    position: absolute;
+    display: inline-block;
+    margin-left: 770px;
+    
+}
+#Top{
+    width:100% ;
+    margin: 0 auto;
+   
+    height: 150px;
+}
+.container{
+    width: 1200px;
+    margin: 0 auto;
+    border: 2px solid yellow;
+    height: 400px;
+}
+.nav5{
+    display: flex ;
+    
+
+}
+.logo3{
+    height: 400px;
+    width: 400px;
+
+}
+.logo2{
+    height: 400px;
+    width: 400px;
+}
+.logo4{
+    height: 400px;
+    width: 400px;  
+}
+
+.offer{
+    margin-left: 400px ;
+    padding: 100px;
+    
+}
+.point {
+    display:flex;
+     
+}
+
+.but1{
+    width: 150px;
+    height: 70px;
+    margin-left: 120px;
+    margin-right: 130px;
+    margin-bottom: 100px;
+    background: gold;
+    color: rgb(48, 5, 78);
+}
+.but2{
+    width: 150px;
+    height: 70px;
+    margin-left: 120px;
+    margin-right: 120px;
+    margin-bottom: 100px;
+    background: gold;
+    color: rgb(48, 5, 78);
+}
+.but3{
+    width: 150px;
+    height: 70px;
+    margin-left: 120px;
+    margin-right: 120px;
+    margin-bottom: 100px;
+    background: gold;
+    color: rgb(48, 5, 78);
+    
+}
+.but1:hover{
+    background: goldenrod;
+}
+.but2:hover{
+    background: goldenrod;
+}
+.but3:hover{
+    background: goldenrod;
+}
+.title{
+    
+    color : gold;
+}
+.bg-modal{
+    width: 100%;
+    height: 100%;
+    align-items: center;
+    
+    display: flex;
+    position: absolute;
+    top: 10;
+    
+    justify-content: center;
+    display: none;
+
+}   
+.modal-content{
+    width: 500px;
+    height: 400px;
+    border: 5px gold;
+    opacity: 1;
+    border-radius: 10px;
+    text-align: center;
+    padding: 25px;
+    position: relative;
+    background-color:#4c4c4e;
+
+}
+input{
+    width: 50%;
+    padding: 20px;
+    background-color: gold;
+    display: block;
+    margin: 20px auto;
+
+}
+.close{
+position: absolute;
+top: 0;
+right: 14px;
+font-size: 35px;
+transform: rotate(45deg);
+cursor: pointer;
+color: black;
+}
+input:invalid {
+    border: 2px dashed red;
+  }
+  
+  input:valid {
+    border: 2px solid black;
+  }
+
+  a{
+      text-decoration: none;
+  }
+   ul{
+       margin: 0;
+       padding: 0;
+       list-style: none;
+   }
+   .menu a {
+       
+       color: black;
+       background-color: gold;
+       padding: 15px;
+       display: inline-block;
+       border:3px solid gray;
+       transition: 0.5s all;
+   }
+   .side{
+       width: 200px;
+      
+       margin: 30px;
+   }
+   .menu a:hover{
+       background: goldenrod;
+       padding : 10px 0 10px 20px;
+   }
+   .menu__list{
+    position: relative;
+}
+   .menu__drop{
+       position: absolute;
+       width: 100%;
+       left: 50%;
+       opacity: 0;
+       top: auto;
+       transition: 0.5s opacity;
+       border-left: solid gray 10px;
+       
+       
+
+   }
+   
+   .menu__list:hover .menu__drop{
+       opacity: 1;
+       top: 0;
+   }
+   

@@ -1,0 +1,88 @@
+.offer{
+    width: 500px ;
+    margin-left: 500px;
+    padding: 100px;
+    border-radius: 20%;
+    border-color: 5px solid rgb(197, 169, 12);
+    background-color: gold;
+    margin-bottom: 50px;
+    text-align: center;
+    margin-top: 20px;
+    
+}
+.point {
+    display:flex;
+    width: 1200px;
+    margin: 0 auto;
+    border: 2px solid yellow;
+    height: 200px;
+    
+}
+
+.but1{
+    width: 150px;
+    height: 70px;
+    margin-left: 120px;
+    margin-right: 130px;
+    margin-bottom: 100px;
+    background: gold;
+    color: black;
+}
+.but2{
+    width: 150px;
+    height: 70px;
+    margin-left: 120px;
+    margin-right: 120px;
+    margin-bottom: 100px;
+    background: gold;
+    color: black;
+}
+.but3{
+    width: 150px;
+    height: 70px;
+    margin-left: 120px;
+    margin-right: 120px;
+    margin-bottom: 100px;
+    background: gold;
+    color:black;
+    
+    
+}.but1:hover{
+    background: goldenrod;
+}
+.but2:hover{
+    background: goldenrod;
+}
+.but3:hover{
+    background: goldenrod;
+}
+
+body{
+    background: black;
+    padding: 0;
+    margin: 0;
+    color: gold;
+}
+nav{
+    
+    margin-top: 70px;
+}
+.containerr{
+    
+    
+    display:flex;
+    width: 1200px;
+    margin: 0 auto;
+    border: 2px solid yellow;
+    height: 200px;
+}
+a{
+    text-decoration: none;
+    text-align: center;
+    color: gold;
+    margin-left: 300px;
+  
+}
+li{
+    list-style-type: none;
+}

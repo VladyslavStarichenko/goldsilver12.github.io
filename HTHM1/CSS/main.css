@@ -1,0 +1,80 @@
+body{
+    background: black;
+    padding: 0;
+    margin: 0;
+    color: gold;
+}
+.container{
+    width: 1200px;
+    margin: 0 auto;
+    border: 2px solid yellow;
+    height: 400px;
+
+
+    
+
+}
+.logo3{
+    height: 400px;
+    width: 400px;
+
+}
+.logo2{
+    height: 400px;
+    width: 400px;
+}
+.logo4{
+    height: 400px;
+    width: 400px;  
+}
+
+.offer{
+    margin-left: 400px ;
+    padding: 100px;
+    
+}
+.point {
+    display:flex;
+     
+}
+.but1{
+    width: 150px;
+    height: 70px;
+    margin-left: 120px;
+    margin-right: 130px;
+    margin-bottom: 100px;
+    background:gold
+    color: rgb(48, 5, 78);
+}
+.but2{
+    width: 150px;
+    height: 70px;
+    margin-left: 120px;
+    margin-right: 120px;
+    margin-bottom: 100px;
+    background: gold;
+    color: rgb(48, 5, 78);
+}
+.but3{
+    width: 150px;
+    height: 70px;
+    margin-left: 120px;
+    margin-right: 120px;
+    margin-bottom: 100px;
+    background: gold;
+    color: rgb(48, 5, 78);
+    
+}
+.but1:hover{
+    background: goldenrod;
+}
+.but2:hover{
+    background: goldenrod;
+}
+.but3:hover{
+    background: goldenrod;
+}
+.title{
+    
+    color : gold;
+}
